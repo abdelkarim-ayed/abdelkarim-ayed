@@ -6,54 +6,41 @@
 
 💻 Full Stack Developer • 📈 FinTech & AI Enthusiast • 🎓 Software Engineering Student • 🇩🇪 Internship Focused
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Real+Products;Future+Software+Engineer+in+the+Making;Seeking+Internship+Opportunities;FinTech+%7C+AI+%7C+Full+Stack+%7C+DevOps;Building+Projects+That+Matter" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;Looking+for+Internship+Opportunities;FinTech+%7C+AI+%7C+DevOps;Building+Real+World+Projects" />
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
-
-I’m not just learning code — I’m learning how to **build the future**.  
-
-A Software Engineering student passionate about creating products where **technology, finance, and artificial intelligence** meet to solve real-world problems.  
-
-From full-stack platforms to smart automation systems, I love turning ideas into scalable digital experiences.
-
-🎯 Currently looking for an **internship opportunity** where I can contribute, grow fast, and bring real value.
-
----
-
-## 🌍 My Journey
+## 🧑‍💻 About Me
 
 🎓 Software Engineering Student at **ESPRIT School of Engineering**  
 🇩🇪 Exchange Student at **Philipps University of Marburg**  
-💼 Hands-on experience through internships in **Full Stack Development & DevOps**  
-🚀 Focused on becoming a high-impact engineer in Europe
+💼 Currently seeking **Internship Opportunities**  
+🚀 Passionate about Full Stack Development, FinTech, AI & DevOps  
+⚡ I enjoy building scalable products that solve real problems
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/abdelkarim-ayed"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:abdelkarim.ayed@esprit.tn"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/abdelkarim-ayed"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/></a>
-<a href="./Jake_s_Resume%20(1).pdf"><img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader"/></a>
+<a href="https://linkedin.com/in/abdelkarim-ayed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abdelkarim.ayed@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/abdelkarim-ayed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-00C2FF?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 </p>
-
-📄 Resume based on my professional experience, education & projects. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## ⚙️ Tech Arsenal
+## ⚙️ Tech Stack
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
 
 ### 🚀 Frameworks
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
@@ -73,13 +60,13 @@ From full-stack platforms to smart automation systems, I love turning ideas into
 ## 🚀 Featured Projects
 
 ### 📊 Tradix
-A real-time trading simulator with portfolio tracking, live WebSocket updates, and AI-powered market insights.
+Real-time trading simulator with portfolio tracking, WebSocket live prices & AI stock insights.
 
 ### 💰 Amana Fund
-A secure FinTech platform for lending, payments, fraud monitoring, and intelligent risk detection.
+Secure FinTech platform for lending, payments, fraud monitoring & AI risk detection.
 
 ### 🤖 AI Solutions
-Chatbots, recommendation engines, and smart automation tools built for modern businesses.
+Chatbots, recommendation systems & smart automation tools.
 
 ---
 
@@ -102,18 +89,17 @@ Chatbots, recommendation engines, and smart automation tools built for modern bu
 
 ---
 
-## 🎯 Current Mission
+## 🎯 Current Goal
 
-🚀 Land a top internship in Germany / Europe  
-💻 Keep building projects that solve real problems  
-📈 Master FinTech + AI + Scalable Systems  
-🌍 Grow into an engineer companies compete for
+🚀 Secure a great internship in Germany / Europe  
+💻 Grow as a Software Engineer  
+📈 Specialize in FinTech + AI Solutions
 
 ---
 
 <div align="center">
 
-## 💡 If you're building something ambitious... let's connect.
+### 💡 "The future belongs to builders."
 
 <img src="https://komarev.com/ghpvc/?username=abdelkarim-ayed&color=blue&style=flat-square"/>
 
