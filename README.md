@@ -4,7 +4,7 @@
 
 ### 🚀 Building the Future with Code
 
-💻 Full Stack Developer • 📈 FinTech & AI Enthusiast • 🎓 Software Engineering Student • 🇩🇪 Internship Focused
+💻 Full Stack Developer • 📈 FinTech & AI Enthusiast • 🎓 Software Engineering Student • 🌍 Internship Focused
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;Looking+for+Internship+Opportunities;FinTech+%7C+AI+%7C+DevOps;Building+Real+World+Projects" />
 
@@ -15,7 +15,6 @@
 ## 🧑‍💻 About Me
 
 🎓 Software Engineering Student at **ESPRIT School of Engineering**  
-🇩🇪 Exchange Student at **Philipps University of Marburg**  
 💼 Currently seeking **Internship Opportunities**  
 🚀 Passionate about Full Stack Development, FinTech, AI & DevOps  
 ⚡ I enjoy building scalable products that solve real problems
